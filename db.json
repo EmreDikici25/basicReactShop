@@ -1,0 +1,30 @@
+{
+  "basket": [
+    {
+      "id": "1",
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "price": "35000"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "price": "35000"
+    },
+    {
+      "id": "2",
+      "name": "Note 10",
+      "brand": "Samsung",
+      "price": "20000"
+    },
+    {
+      "id": "3",
+      "name": "Macbook Air (M1)",
+      "brand": "Apple",
+      "price": "30000"
+    }
+  ]
+}
