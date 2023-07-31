@@ -1,10 +1,10 @@
 {
   "basket": [
     {
-      "id": "1",
-      "name": "iPhone 14",
+      "id": "3",
+      "name": "Macbook Air (M1)",
       "brand": "Apple",
-      "price": "35000"
+      "price": "30000"
     }
   ],
   "products": [
